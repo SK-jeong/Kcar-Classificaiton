@@ -21,3 +21,11 @@ This project is for 2020 Data Creater Camp : Final Round, hosted by NIA(National
 - train, test split 8:2<br><br>
   <img alt="avante" src="./data/Hyundai_AvanteMD_2015_10th_H330_V15.JPG" width="100" height="100">&nbsp;
   <img alt="grandeur" src="./data/Hyundai_GarndeurIG_2018_14th_H300_V30.JPG" width="100" height="100">
+
+## Report
+
+| Model               | Accuracy |
+| ------------------- | -------- |
+| logistic regression | 0.1794   |
+| SVM                 | 0.3959   |
+| perceptron          | 0.1258   |
